@@ -1,0 +1,3 @@
+/Users/kaixue/Documents/NGCP/CPPfindtarget/CMakeFiles/RedDetection.dir
+/Users/kaixue/Documents/NGCP/CPPfindtarget/CMakeFiles/edit_cache.dir
+/Users/kaixue/Documents/NGCP/CPPfindtarget/CMakeFiles/rebuild_cache.dir
