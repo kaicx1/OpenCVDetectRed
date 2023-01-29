@@ -1,0 +1,9 @@
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/Experimental.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/Nightly.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/Continuous.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/RedDetection.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/PACKAGE.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/RUN_TESTS.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/ALL_BUILD.dir
+D:/.NGCP/fire-detection/OpenCVDetectRed/build/CMakeFiles/ZERO_CHECK.dir
