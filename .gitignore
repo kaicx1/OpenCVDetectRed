@@ -2,7 +2,7 @@
 /CMakeLists.txt
 /.vscode/
 /CMakeLists.txt/
-/Makefile/
-/CMakeCache.txt/
-/cmake_install.cmake/
+/Makefile
+/CMakeCache.txt
+/cmake_install.cmake
 /CMakeFiles/
