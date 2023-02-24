@@ -1,6 +1,6 @@
 1. Install Homebrew: 
 Open the Terminal application and enter the following command: 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/kaicxue -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 2. Update Homebrew: 
 brew update
