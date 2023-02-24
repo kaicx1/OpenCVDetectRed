@@ -1,0 +1,16 @@
+1. Install Homebrew: 
+Open the Terminal application and enter the following command: 
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+2. Update Homebrew: 
+brew update
+
+3. Install Xcode Command Line Tools: 
+xcode-select --install
+
+4. Install OpenCV: 
+brew install opencv
+
+5. Verify OpenCV Installation: 
+Run the following command in the Terminal to check if OpenCV is installed: 
+python3 -c "import cv2; print(cv2.__version__)"
